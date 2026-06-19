@@ -1,0 +1,4 @@
+1)directorio de trabajo donde se hace add para que luego vayan a la satging area la "sala de espera" y el  REPOSITORIO LOCAL
+2)aparece en untracked ya que lo "bajaste" de donde estaba ese archivo
+3)untracked no esta subido,modified es cuando se hace el push y straged ya cuando esta en la staging area
+4)git add
